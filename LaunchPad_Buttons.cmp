@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/26/2014 6:48:49 PM
+
+BeginCmp
+TimeStamp = /52E59D32;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D3F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D45;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D5F;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D65;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D6B;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59CF9;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D10;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D16;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D1C;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D22;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59D28;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A32D;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A33A;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A340;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A346;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A34C;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A354;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = SPST_thruhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A375;
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = SPST_thruhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A37B;
+Reference = SW3;
+ValeurCmp = SPST;
+IdModule  = SPST_thruhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A381;
+Reference = SW4;
+ValeurCmp = SPST;
+IdModule  = SPST_thruhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A387;
+Reference = SW5;
+ValeurCmp = SPST;
+IdModule  = SPST_thruhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E59B37;
+Reference = U1;
+ValeurCmp = MSP430_LAUNCHPAD;
+IdModule  = MSP430_Launchpad;
+EndCmp
+
+EndListe
